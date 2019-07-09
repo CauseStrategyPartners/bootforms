@@ -1,5 +1,5 @@
 {
-    "name": "adamwathan/bootforms",
+    "name": "causestrategy/bootforms",
     "description": "Just a Formbuilder with some Bootstrap specific conveniences. Remembers old input, retrieves error messages and handles all your boilerplate Bootstrap markup automatically.",
     "authors": [
         {
